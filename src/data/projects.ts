@@ -14,7 +14,7 @@ export const projects: Project[] = [
     },
     tags: ["FastAPI", "SQLAlchemy 2.0", "PostgreSQL", "JWT", "Docker", "AWS EC2", "CI"],
     repoUrl: "https://github.com/fabianpradod/flowdesk-bck",
-    liveUrl: "http://3.235.13.20",
+    liveUrl: "https://flowdeskis.netlify.app/",
   },
   {
     id: "atelier-formal",
